@@ -121,6 +121,8 @@ def collect_trajectories(envs, policy, tmax=200, nrand=5):
         # probs will only be used as the pi_old
         # no gradient propagation is needed
         # so we move it to the cpu
+        print(batch_input)
+        print(batch_input.shape)
         probs = policy(batch_input).squeeze().cpu().detach().numpy()
         
         action = np.where(np.random.rand(n) < probs, RIGHT, LEFT)
