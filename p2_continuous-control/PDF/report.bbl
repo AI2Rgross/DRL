@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{Barth2018}
+Gabriel Barth{-}Maron, Matthew~W. Hoffman, David Budden, Will Dabney, Dan
+  Horgan, Dhruva TB, Alistair Muldal, Nicolas Heess, and Timothy~P. Lillicrap.
+\newblock Distributed distributional deterministic policy gradients.
+\newblock {\em CoRR}, abs/1804.08617, 2018.
+
+\bibitem{ClaveraRS0AA18}
+Ignasi Clavera, Jonas Rothfuss, John Schulman, Yasuhiro Fujita, Tamim Asfour,
+  and Pieter Abbeel.
+\newblock Model-based reinforcement learning via meta-policy optimization.
+\newblock In {\em CoRL}, volume~87 of {\em Proceedings of Machine Learning
+  Research}, pages 617--629. PMLR, 2018.
+
+\bibitem{LillicrapHPHETS15}
+Timothy~P. Lillicrap, Jonathan~J. Hunt, Alexander Pritzel, Nicolas Heess, Tom
+  Erez, Yuval Tassa, David Silver, and Daan Wierstra.
+\newblock Continuous control with deep reinforcement learning.
+\newblock {\em CoRR}, abs/1509.02971, 2015.
+
+\bibitem{MnihBMGLHSK16}
+Volodymyr Mnih, Adri{\`{a}}~Puigdom{\`{e}}nech Badia, Mehdi Mirza, Alex Graves,
+  Timothy~P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu.
+\newblock Asynchronous methods for deep reinforcement learning.
+\newblock In {\em ICML}, volume~48 of {\em {JMLR} Workshop and Conference
+  Proceedings}, pages 1928--1937. JMLR.org, 2016.
+
+\bibitem{mnih2015humanlevel}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A. Rusu, Joel Veness,
+  Marc~G. Bellemare, Alex Graves, Martin Riedmiller, Andreas~K. Fidjeland,
+  Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis
+  Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and
+  Demis Hassabis.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518(7540):529--533, feb 2015.
+
+\bibitem{LHDWR14}
+David Silver.
+\newblock Deterministic policy gradient algorithms, 2014.
+
+\end{thebibliography}
