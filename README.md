@@ -1,0 +1,6 @@
+# This is the repo from the udacity deep learning nano degree: https://github.com/udacity/deep-reinforcement-learning
+
+Underwork ...
+
+In the next weeks I will update it with my solutions.
+See you soon ...
